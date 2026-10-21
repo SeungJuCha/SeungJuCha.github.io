@@ -1,0 +1,208 @@
+{
+  "name": "SeungJu Cha",
+  "role": "Ph.D. Student in Artificial Intelligence",
+  "institution": "Hanyang University",
+  "location": "Republic of Korea",
+  "advisor": "Prof. Dong-Jin Kim",
+  "intro": "I am a Ph.D. student in Artificial Intelligence at Hanyang University, advised by Prof. Dong-Jin Kim. My research interests include diffusion and flow models, efficient generation, and physics-aware long-horizon video generation.",
+  "research_interests": [
+    "Diffusion & Flow Models",
+    "Efficient Generation",
+    "Physics-Aware Video",
+    "Long-Horizon World Models"
+  ],
+  "emails": [
+    "sju9020@hanyang.ac.kr",
+    "chaseungju990201@gmail.com"
+  ],
+  "links": {
+    "scholar": "https://scholar.google.com/citations?user=lVmI_MgAAAAJ&hl=ko",
+    "github": "https://github.com/SeungJuCha",
+    "linkedin": "https://www.linkedin.com/in/seungju-cha-3a3061301/"
+  },
+  "news": [
+    {
+      "year": 2026,
+      "headline": "Which Tokens to Merge? at NeurIPS 2026",
+      "detail": "Our work on diffusion dynamics for efficient image generation appears at NeurIPS 2026.",
+      "url": "https://neurips.cc/virtual/2026/poster/151199"
+    },
+    {
+      "year": 2026,
+      "headline": "Oral presentation at ACCV 2026",
+      "detail": "Beyond Pairwise Repulsion: Collective Diversity via Determinant Maximization in Diffusion Sampling.",
+      "url": ""
+    },
+    {
+      "year": 2026,
+      "headline": "Three papers at CVPR 2026 and CVPR 2026 Findings",
+      "detail": "Adaptive Auxiliary Prompt Blending and SAIL at CVPR; ADAPT at CVPR Findings.",
+      "url": ""
+    },
+    {
+      "year": 2026,
+      "headline": "Seeing Before Synthesizing at EMNLP 2026",
+      "detail": "Work on VLM-guided transition event discovery for dense video captioning.",
+      "url": "https://arxiv.org/abs/2609.04183"
+    },
+    {
+      "year": 2025,
+      "headline": "ScaleDiff at NeurIPS 2025",
+      "detail": "Higher-resolution image synthesis via efficient and model-agnostic diffusion.",
+      "url": "https://neurips.cc/virtual/2025/loc/san-diego/poster/117898"
+    },
+    {
+      "year": 2025,
+      "headline": "VerbDiff at CVPR 2025",
+      "detail": "Text-only diffusion models with enhanced interaction awareness.",
+      "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Cha_VerbDiff_Text-Only_Diffusion_Models_with_Enhanced_Interaction_Awareness_CVPR_2025_paper.html"
+    }
+  ],
+  "publications": [
+    {
+      "category": "Generative Modeling",
+      "title": "Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation",
+      "authors": "SeungJu Cha, Ye-Chan Kim, HyunGee Kim, Sungho Koh, Dong-Jin Kim",
+      "venue": "NeurIPS 2026",
+      "year": 2026,
+      "url": "https://neurips.cc/virtual/2026/poster/151199"
+    },
+    {
+      "category": "Generative Modeling",
+      "title": "ScaleDiff: Higher-Resolution Image Synthesis via Efficient and Model-Agnostic Diffusion",
+      "authors": "SungHo Koh, SeungJu Cha, Hyunwoo Oh, Kwanyoung Lee, Dong-Jin Kim",
+      "venue": "NeurIPS 2025",
+      "year": 2025,
+      "url": "https://neurips.cc/virtual/2025/loc/san-diego/poster/117898"
+    },
+    {
+      "category": "Generative Modeling",
+      "title": "Beyond Pairwise Repulsion: Collective Diversity via Determinant Maximization in Diffusion Sampling",
+      "authors": "Kwanyoung Lee, SeungJu Cha, Yebin Ahn, Sungho Koh, Dong-Jin Kim",
+      "venue": "ACCV 2026",
+      "year": 2026,
+      "award": "Oral",
+      "url": ""
+    },
+    {
+      "category": "Generative Modeling",
+      "title": "VerbDiff: Text-Only Diffusion Models with Enhanced Interaction Awareness",
+      "authors": "SeungJu Cha, Kwanyoung Lee, Youngchan Kim, Hyunwoo Oh, Dong-Jin Kim",
+      "venue": "CVPR 2025",
+      "year": 2025,
+      "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Cha_VerbDiff_Text-Only_Diffusion_Models_with_Enhanced_Interaction_Awareness_CVPR_2025_paper.html"
+    },
+    {
+      "category": "Generative Modeling",
+      "title": "Not Just a Subject: Capturing Adaptive Scene-Specific Variance for Visual Storytelling",
+      "authors": "SeungJu Cha, Ye-Chan Kim, Kwanyoung Lee, Dong-Jin Kim",
+      "venue": "ACCV 2026",
+      "year": 2026,
+      "url": ""
+    },
+    {
+      "category": "Generative Modeling",
+      "title": "Adaptive Auxiliary Prompt Blending for Target-Faithful Diffusion Generation",
+      "authors": "Kwanyoung Lee, SeungJu Cha, Yebin Ahn, Hyunwoo Oh, Sungho Koh, Dong-Jin Kim",
+      "venue": "CVPR 2026",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2603.19158"
+    },
+    {
+      "category": "Generative Modeling",
+      "title": "ADAPT: Attention Driven Adaptive Prompt Scheduling and InTerpolating Orthogonal Complements for Rare Concepts Generation",
+      "authors": "Kwanyoung Lee, Hyunwoo Oh, SeungJu Cha, Sungho Koh, Dong-Jin Kim",
+      "venue": "CVPR 2026 Findings",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2603.19157"
+    },
+    {
+      "category": "Generative Modeling",
+      "title": "CatchPhrase: EXPrompt-Guided Encoder Adaptation for Audio-to-Image Generation",
+      "authors": "Hyunwoo Oh, SeungJu Cha, Kwanyoung Lee, Si-Woo Kim, Dong-Jin Kim",
+      "venue": "ACM Multimedia (ACM MM) 2025",
+      "year": 2025,
+      "url": "https://dl.acm.org/doi/abs/10.1145/3746027.3755130"
+    },
+    {
+      "category": "Other Publications",
+      "title": "SAIL: Similarity-Aware Guidance and Inter-Caption Augmentation-based Learning for Weakly-Supervised Dense Video Captioning",
+      "authors": "Ye-Chan Kim, SeungJu Cha, Si-Woo Kim, MinJu Jeon, HyunGee Kim, Dong-Jin Kim",
+      "venue": "CVPR 2026",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2603.05437"
+    },
+    {
+      "category": "Other Publications",
+      "title": "Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning",
+      "authors": "Ye-Chan Kim, Seunghee Choi, SeungJu Cha, Si-Woo Kim, Hwiseon Kim, Hyungee Kim, Dong-Jin Kim",
+      "venue": "EMNLP 2026",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2609.04183"
+    },
+    {
+      "category": "Other Publications",
+      "title": "ADuLTS: Appearance Descriptions under Long-Tailed Scenarios with Diverse Synthesized Images",
+      "authors": "SeungJu Cha, Seunghee Choi, Kwanyoung Lee, Dong-Jin Kim",
+      "venue": "Computer Vision and Image Understanding (CVIU), 2026",
+      "year": 2026,
+      "url": "https://www.sciencedirect.com/science/article/pii/S1077314226000512"
+    },
+    {
+      "category": "Other Publications",
+      "title": "Sida: Synthetic Image Driven Zero-Shot Domain Adaptation",
+      "authors": "Youngchan Kim, SeungJu Cha, Si-Woo Kim, Taehwan Kim, Dong-Jin Kim",
+      "venue": "ACM Multimedia (ACM MM) 2025",
+      "year": 2025,
+      "url": "https://dl.acm.org/doi/abs/10.1145/3746027.3754715"
+    }
+  ],
+  "education": [
+    {
+      "period": "2026 — Present",
+      "degree": "Ph.D. Student, Artificial Intelligence",
+      "school": "Hanyang University",
+      "detail": "Advisor: Prof. Dong-Jin Kim"
+    },
+    {
+      "period": "2024 — 2026",
+      "degree": "M.S., Artificial Intelligence",
+      "school": "Hanyang University",
+      "detail": "Advisor: Prof. Dong-Jin Kim"
+    },
+    {
+      "period": "2018 — 2024",
+      "degree": "B.S., Mechanical Engineering",
+      "school": "Hanyang University",
+      "detail": ""
+    }
+  ],
+  "academic_service": [
+    {
+      "name": "NeurIPS 2026",
+      "detail": "Top Reviewer"
+    },
+    {
+      "name": "AAAI 2027",
+      "detail": "Reviewer"
+    },
+    {
+      "name": "ACCV 2026",
+      "detail": "Reviewer"
+    },
+    {
+      "name": "AAAI 2026",
+      "detail": "Reviewer"
+    }
+  ],
+  "technical_skills": [
+    {
+      "name": "Programming & Frameworks",
+      "items": "Python, PyTorch"
+    },
+    {
+      "name": "Development Tools",
+      "items": "Linux, Git"
+    }
+  ]
+}
